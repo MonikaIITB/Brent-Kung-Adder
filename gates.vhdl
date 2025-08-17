@@ -1,5 +1,5 @@
--- Rohan Rajesh Kalbag --
--- Roll Number: 20D170033, last digit is 3 --
+-- Monika Khond --
+--last digit used -- 3 --
 
 library IEEE;
 use IEEE.std_logic_1164.all;
